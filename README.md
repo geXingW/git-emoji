@@ -25,5 +25,18 @@
 | 🔧    | `:wrench:`              | 修改配置文件          | 🌐              | `:globe_with_meridians:`     | 国际化                |
 | ✏️    | `:pencil2:`             | 修复拼写错误          | 💹              | `:chart:`                    | 报表                  |
 
-## 常用的头像
+## 头像类
+
+### face smiling
+
+| :grinning:              | `:grinning:`              | :smiley:           | `:smiley:`           | :smile:     | `:smile:`     |
+| ----------------------- | ------------------------- | ------------------ | -------------------- | ----------- | ------------- |
+| :grin:                  | `:grin:`                  | :laughing:         | `:laughing:`         | :satisfied: | `:satisfied:` |
+| :sweat_smile:           | `:sweat_smile:`           | :rofl:             | `:rofl:`             | :joy:       | `:joy:`       |
+| :slightly_smiling_face: | `:slightly_smiling_face:` | :upside_down_face: | `:upside_down_face:` | :wink:      | `:wink:`      |
+| :blush:                 | `:blush:`                 | :innocent:         | `:innocent:`         |             |               |
+
+
+
+
 
